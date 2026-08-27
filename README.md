@@ -1,52 +1,50 @@
-# HB-Store-Data-Analysis-Dashbord
-Sales data analysis project using Excel, SQL and Power BI
+# HB Store Data Analysis Dashboard in Power bi
 
+This project is about analyzing sales data and creating an interactive dashboard in Power BI.
 
-# Sales Data Analysis Dashboard
+The main purpose of the project is to understand sales performance, find trends, and get useful information from the data.
 
-📌 Project Overview
+## Tools Used
 
-This project analyzes sales data using Excel, SQL and Power BI.
-The objective is to identify sales trends, top-performing products,
-regional performance and overall business performance.
+* Power BI
+* Microsoft Excel
+* SQL
 
-🛠️ Tools & Technologies
+## What I Worked On
 
-- Excel
-- SQL
-- Power BI
-- Data Cleaning
-- Data Visualization
-- Data Analysis
+* Cleaned and prepared the sales data
+* Created measures and calculated columns in Power BI
+* Analyzed sales and profit
+* Checked sales by category and region
+* Created charts and KPI cards
+* Built an interactive dashboard using Power BI filters
 
- 📊 Key Analysis
+## Dashboard
 
-- Total Sales
-- Total Profit
-- Total Orders
-- Monthly Sales Trends
-- Top Products
-- Regional Sales Performance
-- Category Performance
+The dashboard shows important sales information such as:
 
-  Project Structure
+* Total Sales
+* Total Profit
+* Total Orders
+* Sales by Category
+* Sales by Region
+* Monthly Sales
+* Top Products
 
-- Dataset/ - Original sales dataset
-- SQL/ - SQL queries used for analysis
-- Excel/ - Excel analysis
-- PowerBI/ - Power BI dashboard
-- Screenshots/ - Dashboard screenshots
+## Files
 
-📈 Dashboard
+`PowerBI/` - Power BI dashboard file
 
-Power BI dashboard includes interactive charts,
-KPIs and filters for sales analysis.
+`Dataset/` - Dataset used for the project
 
-🎯 Skills Demonstrated
+`SQL/` - SQL queries used for analysis
 
-- Data Cleaning
-- SQL Queries
-- Excel Analysis
-- Power BI Dashboard Development
-- Data Visualization
-- Business Insights
+`Screenshots/` - Dashboard screenshots
+
+## Project Purpose
+
+I created this project to practice working with real-world sales data and improve my skills in data analysis and Power BI dashboard development.
+
+## Author
+
+Harshad Bondre
